@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Links no HTML</h2>
+<p>Os links no HTML são definidos pela tag (etiqueta): "a" </p>
+
+<a href="https://www.w3schools.com">Isto é um Link</a>
+
+</body>
+</html>
